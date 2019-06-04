@@ -1,0 +1,62 @@
+.bg1{
+			height: 650px;
+			background-image: url(banner.png);
+			background-size: 100% 100%;
+			padding-top: 100px;
+
+		}
+		.h2{
+			text-align: center;
+			color: white;
+			font-size: 35px;
+
+		}
+		.p{
+			color:white;
+			text-align: center;
+			margin-left: 50px;
+
+		}
+		body{
+			font-family: arial;
+		}
+		.class1{
+			height: 100px;
+			width: 300px;
+			margin-left: 50px;
+
+		}
+		.df{
+			display: flex;
+			text-align: center;			
+		}
+		.p2{
+			color: white;
+
+		}
+		p{
+			color: white
+		}
+		.icon{
+			margin-right: 20PX;
+			margin-top: 20px;
+		}
+		.class2{
+			height: 100px;
+			width: 300px;
+			margin-left: 50px;
+		}
+		.div1{
+			margin-left: 20px; 
+			height: 400px;
+
+		}
+		.disfle{
+			display: flex;
+		}
+		.div2{
+			height: 150px; width: 500px;
+		    margin-right: auto; 
+			margin-left: auto;
+
+		}
